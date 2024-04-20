@@ -1,0 +1,1 @@
+Code for datasets and models accompanying [PredProp: Bidirectional Stochastic Optimization with Precision Weighted Predictive Coding](https://arxiv.org/abs/2111.08792) by André Ofner and Sebastian Stober.
